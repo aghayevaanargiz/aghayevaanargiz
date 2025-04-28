@@ -7,7 +7,7 @@ I'm passionate about the theoretical foundations and practical applications of c
 - Data analysis and machine learning
 - Analytical and applied mathematics
 
-I'm currently focused on deepening my understanding of data-driven techniques while continuing to explore theoretical aspects of computer science.
+Currently focused on deepening my understanding of data-driven techniques while continuing to explore the theoretical aspects of computer science. I am actively expanding my knowledge across various research fields.
 
 ---
 

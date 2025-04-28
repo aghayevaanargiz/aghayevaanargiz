@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm [Nargiz]
 
-<!--
-**aghayevaanargiz/aghayevaanargiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about the theoretical foundations and practical applications of computer science. My interests include:
 
-Here are some ideas to get you started:
+- Algorithm development and problem-solving
+- Computability theory and the theory of computation
+- Data analysis and machine learning
+- Analytical and applied mathematics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on deepening my understanding of data-driven techniques while continuing to explore theoretical aspects of computer science.
+
+---
+
+
+

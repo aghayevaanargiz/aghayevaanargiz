@@ -1,4 +1,4 @@
-# Hi, I'm [Nargiz]
+# Hi, I'm Nargiz
 
 I'm passionate about the theoretical foundations and practical applications of computer science. My interests include:
 

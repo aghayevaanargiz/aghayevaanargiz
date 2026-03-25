@@ -28,7 +28,7 @@ My research explores the intersection of human perception and computational syst
 Kazakh British Technical University | PEACE Fuzzy Lab, Azerbaijan Branch  
 *December 2024 – August 2025*
 
-- Conducted research under Dr. Pakizar Shamoi on computer vision applications
+- Conducted research on computer vision applications
 - Contributed to data analysis, algorithm development, and fuzzy logic implementations
 - Focused on color-human interaction and perceptual color extraction methodologies
 

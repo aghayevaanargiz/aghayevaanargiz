@@ -1,7 +1,6 @@
 # Nargiz Aghayeva
 
 Bachelor of Science in Mathematics & Computer Science | ADA University (Expected 2026)  
-Research Assistant @ Kazakh British Technical University  
 Research Project Manager @ USG Future Hub
 
 ---

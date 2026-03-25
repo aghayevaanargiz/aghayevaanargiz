@@ -49,27 +49,13 @@ USG Future Hub Research Center
 Python · C · C++ · Java · LaTeX
 
 **AI/ML**  
-Machine Learning · Computer Vision · Fuzzy Logic · Scikit-learn · 
+Machine Learning · Computer Vision · Artificial Intelligence
 
 **Tools**  
 Git · GitHub · Microsoft Office Suite · LaTeX
 
 **Research**  
 Literature Review · Algorithm Development · Technical Writing · Data Analysis
-
----
-
-## GitHub Repository Structure
-
-This profile contains repositories organized by research focus:
-
-| Repository | Description |
-|------------|-------------|
-| `np-complete-guide` | Structured guide to 15 classical NP-complete problems with reductions |
-| `dominant-color-extraction` | Implementation and analysis of color extraction algorithms |
-| `machine-learning-experiments` | ML models and experiments from coursework and independent study |
-
-*Additional repositories will be added as research progresses.*
 
 ---
 

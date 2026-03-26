@@ -17,8 +17,8 @@ My research explores the intersection of human perception and computational syst
 
 | Year | Title | Venue/Publisher |
 |------|-------|-----------------|
-| 2025 | Beyond Pixel Count: A Perceptual Taxonomy and Review of Dominant Color Extraction Algorithms | Co-authored with Panakhova, L. & Mammadov, S. |
-| 2025 | A Comprehensive Guide to the Classical NP-Complete Problems | Zenodo |
+| 2025 | Beyond Pixel Count: A Perceptual Taxonomy and Review of Dominant Color Extraction Algorithms |[IEEE AICT 2025](https://ieeexplore.ieee.org/document/11268666) |
+| 2025 | A Comprehensive Guide to the Classical NP-Complete Problems |[Zenodo](https://zenodo.org/records/16795417)|
 
 ---
 

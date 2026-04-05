@@ -1,7 +1,6 @@
 # Nargiz Aghayeva
 
-Bachelor of Science in Mathematics & Computer Science | ADA University (Expected 2026)  
-Research Project Manager @ USG Future Hub
+Bachelor of Science in Mathematics & Computer Science | ADA University 
 
 ---
 
@@ -10,15 +9,6 @@ Research Project Manager @ USG Future Hub
 Computer Vision | Artificial Intelligence | Deep Learning | Computational Aesthetics | Perceptual Color Analysis
 
 My research explores the intersection of human perception and computational systems, with emphasis on deep learning architectures, computer vision, and computational aesthetics. I focus on developing interpretable AI systems aligned with human perceptual mechanisms.
-
----
-
-## Publications
-
-| Year | Title | Venue/Publisher |
-|------|-------|-----------------|
-| 2025 | Beyond Pixel Count: A Perceptual Taxonomy and Review of Dominant Color Extraction Algorithms |[IEEE AICT 2025](https://ieeexplore.ieee.org/document/11268666) |
-| 2025 | A Comprehensive Guide to the Classical NP-Complete Problems |[Zenodo](https://zenodo.org/records/16795417)|
 
 ---
 

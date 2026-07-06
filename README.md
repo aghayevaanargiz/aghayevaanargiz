@@ -1,4 +1,4 @@
-# Nargiz Aghayeva
+# Nargiz K. Aghayeva
 
 Bachelor of Science in Mathematics & Computer Science | ADA University 
 

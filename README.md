@@ -15,6 +15,8 @@ My research explores the intersection of human perception and computational syst
 
 [Email](nargizkaghayeva@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/aghayevanargiz/) · [ResearchGate](https://www.researchgate.net/profile/Nargiz-Aghayeva-4?ev=hdr_xprf)
+[LinkedIn](https://www.linkedin.com/in/aghayevanargiz/) 
+
+[ResearchGate](https://www.researchgate.net/profile/Nargiz-Aghayeva-4?ev=hdr_xprf)
 
 ---

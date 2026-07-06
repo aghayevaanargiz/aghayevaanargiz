@@ -1,6 +1,6 @@
 # Nargiz K. Aghayeva
 
-Bachelor of Science in Mathematics & Computer Science @[ADA University](https://www.ada.edu.az/en)
+Bachelor of Science in Mathematics & Computer Science at [ADA University](https://www.ada.edu.az/en)
 
 ---
 

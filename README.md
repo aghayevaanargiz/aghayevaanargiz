@@ -1,6 +1,6 @@
 # Nargiz Aghayeva
 
-Hi I'm Nargiz! I'm a MSc Computer Science & Data Analytics at [ADA University](https://www.ada.edu.az/en) & [George Washington University](https://www.gwu.edu/https://www.ada.edu.az/en) 
+Hi I'm Nargiz! I'm a MSc in Computer Science & Data Analytics at [ADA University](https://www.ada.edu.az/en) & [George Washington University](https://www.gwu.edu/https://www.ada.edu.az/en) 
 
 ---
 

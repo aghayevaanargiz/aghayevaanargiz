@@ -1,6 +1,6 @@
-# Nargiz K. Aghayeva
+# Nargiz Aghayeva
 
-Bachelor of Science in Mathematics & Computer Science at [ADA University](https://www.ada.edu.az/en)
+Hi I'm Nargiz! I'm a Master of Science in Computer Science & Data Analytics student at [ADA University](https://www.ada.edu.az/en) & [George Washington University](https://www.gwu.edu/https://www.ada.edu.az/en) 
 
 ---
 

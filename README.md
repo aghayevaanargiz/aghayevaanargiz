@@ -6,7 +6,7 @@ Hi I'm Nargiz! I'm a MSc in Computer Science & Data Analytics at [ADA University
 
 ## Research Focus
 
-Computer Vision | Artificial Intelligence | Deep Learning | Computational Aesthetics | Perceptual Color Analysis
+Machine Learning | Data Science | Computer Vision | Artificial Intelligence
 
 My research explores the intersection of human perception and computational systems, with emphasis on deep learning architectures, computer vision, and computational aesthetics. I focus on developing interpretable AI systems aligned with human perceptual mechanisms.
 
